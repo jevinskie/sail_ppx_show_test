@@ -1,0 +1,4 @@
+(executable
+ (public_name sail_ppx_show_test)
+ (name main)
+ (libraries sail_ppx_show_test))
