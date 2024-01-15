@@ -1,2 +1,4 @@
 (library
+ (preprocess
+  (pps sail_ppx_show))
  (name sail_ppx_show_test))
